@@ -236,8 +236,7 @@ nav.show div.icon-close {
   right: 2.93rem;
 }
 
-#home .image img,
-#home .image::before {
+#home .image img, {
   border-radius: 0.25rem;
 }
 
